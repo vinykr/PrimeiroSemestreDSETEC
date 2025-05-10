@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h2{
+    color: gray;
+    text-align: center;
+}
+
+p{
+   
+    color: darkgrey;
+    text-align: center;
+}
+
+.destaque{
+    background-color: rgb(247, 0, 255);
+}
+
+nav{
+    float:right
+}
+
+nav ul li{ 
+
+    color: darkgray;
+    display: inline;
+    margin-right: 20px;
+    border: 2px solid;
+    padding: 2px;
+    background-color: black;
+}
+
+header{
+
+    color: gray;
+    border: 2px solid ;
+}
+
+footer p {
+    text-align: center;
+}
+
+header{
+
+    background-color: rgb(44, 44, 47);
+    height: 70px;
+}
+
+img{
+
+    width: 60px;
+    margin-left: 10px;
+}
